@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,700|Raleway:400,600&subset=latin-ext');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Raleway', 'Arial', 'Helvetica', sans-serif;
+}
+
+body {
+    background-color: rgb(246, 246, 246);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    font-family: 'Montserrat', 'Arial', 'Helvetica', sans-serif;
+}
